@@ -1,0 +1,5 @@
+{'id': '1001', 'name': 'chenjiahe', 'english': 90, 'python': 96, 'c': 91}
+{'id': '1002', 'name': 'liming', 'english': 93, 'python': 93, 'c': 94}
+{'id': '1003', 'name': 'liubei', 'english': 87, 'python': 90, 'c': 66}
+{'id': '1004', 'name': 'guanyu', 'english': 79, 'python': 75, 'c': 88}
+{'id': '1005', 'name': 'zhangfei', 'english': 88, 'python': 63, 'c': 69}
