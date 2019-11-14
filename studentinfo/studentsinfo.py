@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/11/12 16:45
 # @Author  : chenjiahe
-# @File    : studentsyst.py
+# @File    : studentsinfo.py
 import re
 import os
 
